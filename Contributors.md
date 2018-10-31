@@ -6234,6 +6234,7 @@ Rohan Das
 - [Tiago Domingos](https://github.com/TiagoDomingos/)
 - [Keith Bessette](https://github.com/kabeste/)
 - [Austin French](https://github.com/frogr/)
+- [Felipe Sadoyama](https://github.com/TMFelipe/)
 - [Pritika Shenoy](https://github.com/pritikashenoy/)
 - [Vusal Alishov](https://github.com/vusalalishov)
 - [Jerry Hsieh](https://github.com/cyhs)
